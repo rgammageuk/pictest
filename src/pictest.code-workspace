@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "platformio",
+			"path": "../../../../../Arduino/TimerInterrupt/Teensy_TimerInterrupt-main/platformio"
+		}
+	],
+	"settings": {}
+}
